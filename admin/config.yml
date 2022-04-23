@@ -583,4 +583,3 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
-publish_mode: editorial_workflow
