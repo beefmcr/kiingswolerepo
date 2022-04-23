@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Links </title>
+    <description>Links  Feed</description>
+    <link></link>
+    <pubDate>Sat, 23 Apr 2022 19:30:37 GMT</pubDate>
+    <atom:link href="/links/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>PAYPAL</title>
+            
+            <media:content url="https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/624eb02dbfef7156fbaee06e_web.svg" medium="image"/>
+            
+            <link>/links/paypal/</link>
+            <pubDate>Sat, 23 Apr 2022 19:30:37 GMT</pubDate>
+            <guid>/links/paypal/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>ONLYFANS</title>
+            
+            <media:content url="https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/6258f4c519bed26d23555edd_bx_film.svg" medium="image"/>
+            
+            <link>/links/onlyfans/</link>
+            <pubDate>Sat, 23 Apr 2022 19:30:37 GMT</pubDate>
+            <guid>/links/onlyfans/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>JUST FOR FANS (No PPV)</title>
+            
+            <media:content url="https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/625bc89f6918073de0648123_bx_video.svg" medium="image"/>
+            
+            <link>/links/jff/</link>
+            <pubDate>Sat, 23 Apr 2022 19:30:37 GMT</pubDate>
+            <guid>/links/jff/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Collab with Kiing</title>
+            
+            <media:content url="https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/62559baf3919437340b08b0f_34323.svg" medium="image"/>
+            
+            <link>/links/collab-with-kiing/</link>
+            <pubDate>Sat, 23 Apr 2022 19:30:37 GMT</pubDate>
+            <guid>/links/collab-with-kiing/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Make a booking</title>
+            
+            <media:content url="https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/624eb02dbfef7156fbaee06e_web.svg" medium="image"/>
+            
+            <link>/links/cashapp/</link>
+            <pubDate>Sat, 23 Apr 2022 19:30:37 GMT</pubDate>
+            <guid>/links/cashapp/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>CASHAPP</title>
+            
+            <media:content url="https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/6255e3331700913997021642_%C2%A3.svg" medium="image"/>
+            
+            <link>/links/cashapp-2/</link>
+            <pubDate>Sat, 23 Apr 2022 19:30:37 GMT</pubDate>
+            <guid>/links/cashapp-2/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+  </channel>
+</rss>
