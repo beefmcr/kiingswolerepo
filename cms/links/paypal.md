@@ -1,5 +1,5 @@
 ---
-title: PAYPALL
+title: PAYPAL
 created-on: 2022-04-07T09:35:08.253Z
 updated-on: 2022-04-16T07:20:11.446Z
 published-on: 2022-04-17T08:09:22.407Z
