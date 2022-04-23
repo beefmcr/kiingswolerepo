@@ -1,13 +1,13 @@
 {
-  "7b60675a": "Bookings",
-  "-6430161a": "Collabs",
+  "474de701": "-",
+  "5dff16c6": "-",
+  "-53cd8785": "-",
+  "25f56aa1": "-",
   "3d503d2b": "No items found.",
+  "7b60675a": "Bookings",
+  "-7f135175": "-",
+  "-6430161a": "Collabs",
   "-3c49f0c5": "Copyright 2022 Kiingswole.com - All rights reserved",
-  "-53cd8785": "Website",
-  "4605f99": "Links",
-  "-7f135175": "Profile Details",
-  "474de701": "Account Info",
-  "25f56aa1": "[vg_display_admin_page page_url=\"https://kiingswole.com/wp-admin/edit.php?post_type=links\"]",
-  "5dff16c6": "[vg_display_admin_page page_url=\"https://kiingswole.com/wp-admin/term.php?taxonomy=kiing&tag_ID=2&post_type=icons&wp_http_referer=%2Fwp-admin%2Fedit-tags.php%3Ftaxonomy%3Dkiing%26post_type%3Dicons\"]",
-  "-6888b2ee": "[vg_display_admin_page page_url=\"https://kiingswole.com/wp-admin/profile.php\"]"
+  "-6888b2ee": "-",
+  "4605f99": "-"
 }
