@@ -5,10 +5,10 @@ updated-on: 2022-04-17T09:48:38.687Z
 published-on: 2022-04-17T09:48:54.505Z
 f_profile-picture:
   url: https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/624eaf9348c43a743f35cff9_swole.png
-  alt: Kiing Swole
+  alt: Kiing Swole profile picture
 f_logo:
   url: https://uploads-ssl.webflow.com/624d1cc58a578aa15f2af665/624ec6b5654d9a74732ac14e_swoley.svg
-  alt: Kiing Swole Text
+  alt: Kiing Swole Logo
 f_bio: ""
 f_email-address: inbox@kiingswole.com
 f_twitter: https://twitter.com/kiingswole
