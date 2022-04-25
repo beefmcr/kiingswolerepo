@@ -12,7 +12,7 @@ f_logo:
 f_email-address: inbox@kiingswole.com
 f_twitter: https://twitter.com/kiingswole
 f_instagram: https://instagram.com/ronnieswolez
-f_whatsapp: "07901141897"
+f_whatsapp: ""
 f_font-colour: hsla(210, 55.17%, 11.37%, 1.00)
 f_enquiries-form: https://tally.so#tally-open=w45Gkn&tally-layout=modal&tally-width=500&tally-align-left=1&tally-hide-title=1&tally-emoji-animation=wave
 layout: "[kiing].html"
