@@ -609,7 +609,7 @@ blockquote {
 .social-link.circle {
   margin-left: 10px;
   border-radius: 100vw;
-  background-color: #f55b5b;
+  background-color: #853736;
   box-shadow: 1px 1px 3px 0 #530606;
   -webkit-filter: none;
   filter: none;
@@ -800,7 +800,7 @@ blockquote {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  border-color: #cc4343;
+  border-color: #853736;
   box-shadow: 3px 3px 9px -1px #573939;
   outline-color: #c3e1ff;
   outline-offset: 0px;
@@ -984,21 +984,21 @@ blockquote {
   margin-left: 20px;
   padding-right: 49px;
   padding-left: 49px;
-  border: 1px none #f55b5b;
+  border: 1px none #853736;
   border-radius: 100vw;
   background-color: transparent;
   color: #202020;
 }
 
 .button.link-flex-wrap.feature {
-  outline-color: #ff6565;
+  outline-color: #853736;
   outline-offset: 0px;
   outline-style: solid;
   outline-width: 1px;
 }
 
 .button.link-flex-wrap.feature:hover {
-  background-color: #da5252;
+  background-color: #853736;
 }
 
 .button.link {
@@ -1006,7 +1006,7 @@ blockquote {
 }
 
 .button.red {
-  background-color: #f55b5b;
+  background-color: #853736;
   color: #fff;
 }
 
