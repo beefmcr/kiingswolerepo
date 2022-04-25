@@ -142,11 +142,6 @@ collections:
             widget: string
             required: false
       - hint: ''
-        name: f_bio
-        label: Bio
-        widget: text
-        required: false
-      - hint: ''
         name: f_phone-number
         label: Phone Number
         widget: string
@@ -174,11 +169,6 @@ collections:
       - hint: ''
         name: f_whatsapp
         label: Whatsapp
-        widget: string
-        required: false
-      - hint: ''
-        name: f_location
-        label: Location
         widget: string
         required: false
       - hint: ''
@@ -224,76 +214,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-  - name: icons
-    label: Icons
-    folder: cms/icons
-    create: true
-    identifier_field: name
-    extension: md
-    slug: '{{slug}}'
-    fields:
-      - hint: ''
-        name: title
-        label: Name
-        widget: string
-        required: true
-      - hint: ''
-        name: created-on
-        label: Created On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: updated-on
-        label: Updated On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: published-on
-        label: Published On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: f_svg
-        label: SVG
-        widget: object
-        required: false
-        fields:
-          - hint: ''
-            name: url
-            label: Image
-            widget: image
-            required: false
-            allow_multiple: false
-          - hint: Image Alt
-            name: alt
-            label: alt
-            widget: string
-            required: false
-      - hint: ''
-        name: f_assign
-        label: Assign
-        widget: relation
-        required: false
-        collection: kiing
-        value_field: cms/kiing/{{slug}}.md
-        search_fields:
-          - slug
-          - name
-        display_fields:
-          - title
-        multiple: false
-      - label: Tags
-        widget: hidden
-        name: tags
-        default: icons
-      - label: Layout
-        widget: hidden
-        name: layout
-        default: '[icons].html'
-      - label: Publish Date
-        name: date
-        widget: datetime
-      - *ref_0
   - name: links
     label: Links
     folder: cms/links
@@ -322,43 +242,11 @@ collections:
         label: Published On
         widget: datetime
         required: false
-      - hint: ''
-        name: f_thumbnail-image
-        label: Icon
-        widget: object
-        required: true
-        fields:
-          - hint: ''
-            name: url
-            label: Image
-            widget: image
-            required: true
-            allow_multiple: false
-          - hint: Image Alt
-            name: alt
-            label: alt
-            widget: string
-            required: false
-      - hint: ''
-        name: f_short-description
-        label: Short Description
-        widget: string
-        required: true
       - hint: Place your target link here
         name: f_link
         label: Link
         widget: string
         required: true
-      - hint: ''
-        name: f_featured
-        label: Check to include in the links section
-        widget: boolean
-        required: false
-      - hint: ''
-        name: f_feature
-        label: Feature
-        widget: boolean
-        required: false
       - label: Tags
         widget: hidden
         name: tags
@@ -583,3 +471,4 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
+publish_mode: editorial_workflow
