@@ -80,7 +80,7 @@ collections:
             widget: text
             required: false
   - name: kiing
-    label: Profile
+    label: KiingProfiles
     folder: cms/kiing
     create: true
     identifier_field: name
@@ -227,11 +227,6 @@ collections:
         label: Link Name
         widget: string
         required: true
-      - hint: Place your target link here
-        name: f_link
-        label: Link
-        widget: string
-        required: true
       - hint: ''
         name: created-on
         label: Created On
@@ -247,6 +242,11 @@ collections:
         label: Published On
         widget: datetime
         required: false
+      - hint: Place your target link here
+        name: f_link
+        label: Link
+        widget: string
+        required: true
       - label: Tags
         widget: hidden
         name: tags
@@ -471,3 +471,4 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
+publish_mode: editorial_workflow

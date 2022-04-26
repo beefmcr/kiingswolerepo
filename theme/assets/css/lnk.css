@@ -608,8 +608,9 @@ blockquote {
 
 .social-link.circle {
   margin-left: 10px;
+  border: 2px solid #f55b5b;
   border-radius: 100vw;
-  background-color: #853736;
+  background-color: #9b0a0a;
   box-shadow: 1px 1px 3px 0 #530606;
   -webkit-filter: none;
   filter: none;
@@ -800,7 +801,7 @@ blockquote {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  border-color: #853736;
+  border-color: #cc4343;
   box-shadow: 3px 3px 9px -1px #573939;
   outline-color: #c3e1ff;
   outline-offset: 0px;
@@ -984,21 +985,21 @@ blockquote {
   margin-left: 20px;
   padding-right: 49px;
   padding-left: 49px;
-  border: 1px none #853736;
+  border: 1px none #f55b5b;
   border-radius: 100vw;
   background-color: transparent;
   color: #202020;
 }
 
 .button.link-flex-wrap.feature {
-  outline-color: #853736;
+  outline-color: #ff6565;
   outline-offset: 0px;
   outline-style: solid;
   outline-width: 1px;
 }
 
 .button.link-flex-wrap.feature:hover {
-  background-color: #853736;
+  background-color: #da5252;
 }
 
 .button.link {
@@ -1006,8 +1007,14 @@ blockquote {
 }
 
 .button.red {
-  background-color: #853736;
+  background-color: #f55b5b;
   color: #fff;
+}
+
+.button.red {
+  border-style: solid;
+  border-width: 2px;
+  background-color: #9b0a0a;
 }
 
 .html-embed-5 {
