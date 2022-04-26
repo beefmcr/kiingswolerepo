@@ -78,7 +78,7 @@
             {%- unless collection.length == 0 -%}<div fs-cmscombine-element="list" role="list" class="collection-list-2 w-dyn-items">
               {%- for item in collection -%}<div role="listitem" class="collection-item-2 w-dyn-item">
                 <div class="div-block-18">
-                  <div data-w-id="d33f0269-9732-40f9-f734-33055ba2495d" style="opacity:0" class="html-embed-11 w-embed"><a href="{{ item.data.f_link }}" button="" umami--click--udesly-start-liquid{{="" item.data.slug="" }}udesly-end-liquid=""><div>{{ item.data.title }}</div></a></div>
+                  <div data-w-id="d33f0269-9732-40f9-f734-33055ba2495d" style="opacity:0" class="html-embed-11 w-embed"><a href="{{ item.data.f_link }}" class="button umami--click--{{ item.data.slug }}">{{ item.data.title }}</a></div>
                 </div>
               </div>{%- endfor -%}
             </div>{%- endunless -%}
