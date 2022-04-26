@@ -78,7 +78,7 @@
             {%- unless collection.length == 0 -%}<div fs-cmscombine-element="list" role="list" class="collection-list-2 w-dyn-items">
               {%- for item in collection -%}<div role="listitem" class="collection-item-2 w-dyn-item">
                 <div class="div-block-18">
-                  <div data-w-id="d33f0269-9732-40f9-f734-33055ba2495d" style="opacity:0" class="html-embed-11 w-embed"><a href="{{ item.data.f_link }}" class="button umami--click--{{ item.data.slug }}">{{ item.data.title }}</a></div>
+                  <div data-w-id="d33f0269-9732-40f9-f734-33055ba2495d" style="opacity:0" class="html-embed-11 w-embed"><a href="{{ item.data.f_link }}" button="" umami--click--udesly-start-liquid{{="" item.data.slug="" }}udesly-end-liquid=""><div class="buttontext">{{ item.data.title }}</div></a></div>
                 </div>
               </div>{%- endfor -%}
             </div>{%- endunless -%}
@@ -93,12 +93,12 @@
   <footer class="footer">
     <div class="w-layout-grid grid-2">
       <div id="w-node-_4ab7acc1-e9db-f6bd-cac3-932ec0be70fb-c32af660" class="columns w-row">
-        <div class="column w-col w-col-6">
+        <div class="column w-col w-col-6 w-col-stack w-col-small-small-stack w-col-tiny-tiny-stack">
           <a href="{{ links.23 }}" class="link-block w-inline-block">
             <div class="text-block">{{ texts.-3c49f0c5 }}</div>
           </a>
         </div>
-        <div class="column-2 w-col w-col-6">
+        <div class="column-2 w-col w-col-6 w-col-stack w-col-small-small-stack w-col-tiny-tiny-stack">
           <a href="{{ links.-37bbd0e8 }}" target="_blank" class="link-block w-inline-block">
             <div class="w-embed"><svg width="23" height="29" viewBox="0 0 23 29" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8124 4.76998C13.3356 3.77416 10.5207 4.97461 9.5249 7.45138L5.98101 16.2656L14.9499 19.8717L18.4938 11.0574C19.4896 8.58068 18.2891 5.7658 15.8124 4.76998ZM7.66927 6.7053C9.07714 3.20369 13.0568 1.50648 16.5585 2.91435C20.0601 4.32222 21.7573 8.30192 20.3494 11.8035L16.4912 21.3995C16.3767 21.6843 16.1537 21.912 15.8714 22.0324C15.589 22.1528 15.2703 22.1561 14.9855 22.0416L4.45324 17.807C4.16842 17.6924 3.94075 17.4695 3.82032 17.1871C3.69989 16.9047 3.69657 16.5861 3.81109 16.3012L7.66927 6.7053Z" fill="#ffffff"></path>
