@@ -11,14 +11,14 @@ f_logo:
   alt: null
 f_email-address: inbox@kiingswole.com
 f_twitter: https://twitter.com/kiingswole
-f_instagram: https://instagram.com/ronniesoswole
+f_instagram: https://www.instagram.com/beefcakencustard/
 f_primary-colour: hsla(174.54545454545456, 34.16%, 68.43%, 1.00)
 f_secondary-colour: hsla(0, 65.16%, 58.90%, 1.00)
-f_font-colour: hsla(210, 55.17%, 11.37%, 1.00)
-f_booking-form: https://tally.so#tally-open=mOvV7n&tally-layout=modal&tally-width=500&tally-align-left=1&tally-hide-title=1
 f_enquiries-form: https://tally.so#tally-open=w45Gkn&tally-layout=modal&tally-width=500&tally-align-left=1&tally-hide-title=1&tally-emoji-animation=wave
-tags: kiing
 layout: "[kiing].html"
 slug: kiing-swole
+f_font-colour: hsla(210, 55.17%, 11.37%, 1.00)
+f_booking-form: https://tally.so#tally-open=mOvV7n&tally-layout=modal&tally-width=500&tally-align-left=1&tally-hide-title=1
+tags: kiing
 date: 2022-10-25T02:04:52.488Z
 ---
