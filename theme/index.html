@@ -74,7 +74,7 @@
           </div>{%- endif -%}
         </div>
         <div class="div-block-20">
-          {%- assign collection = collections.links | sort: "_random" -%}<div class="collection-list-wrapper-3 w-dyn-list">
+          {%- assign collection = collections.links | sort: "-created-on" -%}<div class="collection-list-wrapper-3 w-dyn-list">
             {%- unless collection.length == 0 -%}<div fs-cmscombine-element="list" role="list" class="collection-list-2 w-dyn-items">
               {%- for item in collection -%}<div role="listitem" class="collection-item-2 w-dyn-item">
                 <div class="div-block-18">
