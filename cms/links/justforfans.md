@@ -1,5 +1,5 @@
 ---
-title: JUSTFORFANS
+title: JUSTFOR.FANS
 created-on: 2023-07-22T02:09:11.172Z
 updated-on: 2023-07-22T02:09:11.178Z
 published-on: 2023-07-22T02:09:11.181Z
